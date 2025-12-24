@@ -1,10 +1,11 @@
 import "./App.css";
+import Labs from "./labs";
 
 function App() {
   return (
     <>
-      <h1>Coming Soon</h1>
-    </>
+      <Labs/>
+      </>
   );
 }
 
